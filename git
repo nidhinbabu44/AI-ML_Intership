@@ -1,0 +1,3 @@
+git remote add origin https://github.com/nidhinbabu44/AI-ML_Intership.git
+git branch -M main
+git push -u origin main
